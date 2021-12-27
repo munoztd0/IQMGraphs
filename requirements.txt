@@ -1,0 +1,7 @@
+pandas==1.2.4
+plotly==5.5.0
+numpy==1.20.2
+requests==2.24.0
+dash==2.0.0
+ipywidgets==7.5.1
+dateparser==1.1.0
